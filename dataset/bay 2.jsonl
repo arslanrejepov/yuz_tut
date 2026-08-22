@@ -1,0 +1,166 @@
+{"text": "başym agyrýar düýnden bäri", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "elimi kesdim biraz gan çykýar", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "aýagymy burdum çykanda agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "pain"}
+{"text": "gözüm agyrýar we suwlaýr", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "dümewim bar dem almak kyn", "body_part": "chest", "urgency": "medium", "symptom_type": "breathing"}
+{"text": "garyn agyry 3 sagatdan bäri dowam edýär", "body_part": "abdomen", "urgency": "medium", "symptom_type": "pain"}
+{"text": "bilegim gyzaryp dur we gyzgyn", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "arkam agyrýar köp oturdym", "body_part": "back", "urgency": "low", "symptom_type": "pain"}
+{"text": "gyzgynym 39 gradus", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "göksüm agyrýar dem alanda beter", "body_part": "chest", "urgency": "high", "symptom_type": "pain"}
+{"text": "çaganyň başy agyrýar we üsgürýär", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "eli ýanýar birazjagaz gyzdy", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "aýagymy basdym bir zat batdy gan çykýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "boýnum agyrýar gyşyk dur", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "içim agyrýar iýenden soň", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "demim gysylýar bir sagatdan bäri", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "dyzym agyrýar ylgandan soň", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "gözi gyzaryp dur çaganyň", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "arkamda agyry hereket edende", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "kese çykdym gyzgynym bar", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "barmagymy gapdan gysdym gaty agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "garyn agyry küşeýär hiç zat kömek etmeýär", "body_part": "abdomen", "urgency": "high", "symptom_type": "pain"}
+{"text": "göksümde agyry dem almakda kynçylyk bar", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "başym aýlanýar we ýüregim bulanýar", "body_part": "head", "urgency": "medium", "symptom_type": "other"}
+{"text": "aýagymy burdum çişip dur", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "gaty gyzgynym 39.5 üsgürýär gaty", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "bilenem agyrýar köp ýük göterdim", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "boýnumda çiş bar agyrmaýar ýöne bar", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "içim bulanyar iýmezlik isleýärin", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "gan köp çykýar elimden kesilen ýerden togtamaýar", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "başym gaty agyrýar hiç zat görünmeýär", "body_part": "head", "urgency": "high", "symptom_type": "pain"}
+{"text": "dem alanda göksüm agyrýar", "body_part": "chest", "urgency": "high", "symptom_type": "pain"}
+{"text": "dyzymy urdum çişip dur basamda agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "garry ene arkasy gaty agyrýar ýatanda", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "gyzgynym bar we üsgürýärin gije", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "garyn agyry küşeýär gijeden bäri", "body_part": "abdomen", "urgency": "high", "symptom_type": "pain"}
+{"text": "bilegim buruldy öýde işläp", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "burnum akýar we üsgürýärin", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "demim gysylýar üsgülewük bilen", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "aýaklarym agyrýar uzak ýöräp", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "arkam agyrýar belden aşak", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "çaganyň gyzgyny 40 gradus düşmeýär", "body_part": "other", "urgency": "critical", "symptom_type": "fever"}
+{"text": "elin ýanýyşy gaty agyrýar biraz derisi gyzardy", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "göksüm gaty agyrýar çep tarapda", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "başym agyrýar we gaty gowşak", "body_part": "head", "urgency": "medium", "symptom_type": "other"}
+{"text": "içim agyrýar we suwuklyk çykýar", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "düşüp dyrnagym gopdu gaty gan çykýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "boýnum agyrýar yza öwrüp bolmaýar", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "dem almak kyn howa ýetmeýär ýaly", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "arkam agyrýar gije ýatanda oýanýaryn", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "barmagym çişip dur gyzgyn we agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "garyn agyry epindi bir zat iýip", "body_part": "abdomen", "urgency": "low", "symptom_type": "digestive"}
+{"text": "başym aýlanýar durup bolmaýar", "body_part": "head", "urgency": "high", "symptom_type": "other"}
+{"text": "göksümde gyjyndy bar dem alanda", "body_part": "chest", "urgency": "medium", "symptom_type": "breathing"}
+{"text": "aýagymy kesdim gaty çuň däl ýöne gan köp", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "gyzgynym bar üsgürýärin we arkam agyrýar", "body_part": "back", "urgency": "medium", "symptom_type": "fever"}
+{"text": "çaganyň içi agyrýar iýen zatlary çykýar", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "bilegim agyrýar ýazanda we ýük göterende", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "gözüm agyrýar yşyk görende", "body_part": "head", "urgency": "medium", "symptom_type": "other"}
+{"text": "demim gysylýar we ýüregim tiz urýar", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "dyzym gaty agyrýar egip bolmaýar", "body_part": "limb", "urgency": "high", "symptom_type": "pain"}
+{"text": "arkamda agyry dem alanda köpelýär", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "gyzgynym 38.5 hiç zat kömek etmeýär", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "garyn agyry düýnden bäri dowam edýär", "body_part": "abdomen", "urgency": "medium", "symptom_type": "pain"}
+{"text": "elimden ýara gan togtamaýar bir sagat boldy", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "başym agyrýar gaty gündizine işden", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "göksüm agyrýar üsgürende gaty", "body_part": "chest", "urgency": "medium", "symptom_type": "pain"}
+{"text": "aýagymy burdum öýde hiç zat kömek etmedi", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "boýnumda agyry bir tarapa öwrüp bolmaýar", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "içim bulanyar we garyn agyrýar", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "dem almak kyn gije oýandym", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "çaganyň aýagy agyrýar düşenden soň", "body_part": "limb", "urgency": "medium", "symptom_type": "pain"}
+{"text": "arkam agyrýar garry adamyň ýatanda kyn", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "gyzgynym bar düýnden bäri 39 gradus", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "barmagymy gyzdyrdym biraz derisi gyzardy", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "başym aýlanýar we gözüm garaňkyraýar", "body_part": "head", "urgency": "critical", "symptom_type": "other"}
+{"text": "göksümde agyry çep tarapda elime geçýär", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "garyn agyry gaty küşeýär hiç zat iýip bolmaýar", "body_part": "abdomen", "urgency": "critical", "symptom_type": "pain"}
+{"text": "aýagymda ýara gyzaryp gaty agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "burnumdan gan çykýar togtamaýar", "body_part": "head", "urgency": "high", "symptom_type": "other"}
+{"text": "demim gysylýar köpelmek bilen", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "dyzym çişip dur basanda gaty agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "arkam agyrýar belden aşak aýagyma geçýär", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "çaganyň gyzgyny bar we üsgürýär gije", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "içim agyrýar we köp suwuklyk çykýar", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "bilegim agyrýar hereket edende", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "gözüm çişip dur we agyrýar", "body_part": "head", "urgency": "medium", "symptom_type": "other"}
+{"text": "dem alanda gaty üsgürýärin göksüm agyrýar", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "elimde ýara köpeldi gyzgyn çykýar", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "başym agyrýar gaty küşeýär hiç zat kömek etmeýär", "body_part": "head", "urgency": "high", "symptom_type": "pain"}
+{"text": "arkam agyrýar gije we irden", "body_part": "back", "urgency": "low", "symptom_type": "pain"}
+{"text": "gyzgynym 38 hiç zat üzmeli däl ýöne ýadaw", "body_part": "other", "urgency": "low", "symptom_type": "fever"}
+{"text": "garyn agyry iýenden soň köpelýär", "body_part": "abdomen", "urgency": "low", "symptom_type": "pain"}
+{"text": "barmagymy basdym bir zat batdy biraz gan", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "boýnum agyrýar irden oýandym", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "göksümde üsgülewük gaty köp", "body_part": "chest", "urgency": "medium", "symptom_type": "breathing"}
+{"text": "çaganyň aýagy çişip dur düşenden", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "garry adamyň dem almakda kynçylygy bar", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "içim bulanyar düýnden bäri", "body_part": "abdomen", "urgency": "low", "symptom_type": "digestive"}
+{"text": "başym aýlanýar irden turanda", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "aýagym agyrýar uzak ýöräp düýn", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "arkamda agyry ýük göterenden soň", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "göksüm agyrýar gije birden başlady", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "elim gyzdy birazjagaz suwda sakladym", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "garyn agyry gaty epindi hiç zat iýmedim", "body_part": "abdomen", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar we üsgürýärin", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "demim gysylýar ýöränimde", "body_part": "chest", "urgency": "medium", "symptom_type": "breathing"}
+{"text": "dyzymy urdum diwardan agyrýar ýöne çiş ýok", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "çaganyň gyzgyny 39 düşmeýär derman içdi", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "arkam agyrýar we dem alanda kyn", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "içim agyrýar we gaty gowşak", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "bilegim agyrýar we çiş bar", "body_part": "limb", "urgency": "medium", "symptom_type": "pain"}
+{"text": "gözüm suwlaýar we agyrýar", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "dem alanda göksümde agyry çep tarapda", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "aýagymdan gan çykýar togtamaýar gaty köp", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "başym gaty agyrýar hiç zat kömek etmeýär 2 gün boldy", "body_part": "head", "urgency": "high", "symptom_type": "pain"}
+{"text": "garyn agyry gije başlady heniz dowam edýär", "body_part": "abdomen", "urgency": "medium", "symptom_type": "pain"}
+{"text": "arkam agyrýar aşaky bel gaty", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "çaganyň dem almakda kynçylygy bar tiz dem alýar", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "barmagym çişip dur gyzgyn", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "--- mixed Turkmen-Russian examples below ---", "body_part": "other", "urgency": "low", "symptom_type": "other"}
+{"text": "başym agyrýar, температура 38.2", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "elimi kesdim, кровотечение не останавливается", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "göksüm agyrýar, дыхание затруднено", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "aýagymy подвернул, опухоль есть", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "život болит, тошнит, что можно выпить?", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "спина гаты agyrýar, особенно когда наклоняюсь", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "temperatura 39, жарко, слабость", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "глаз болит, слезится, покраснел", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "руку обжег, кожа покраснела, очень больно", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "головная боль сильная, 3 дня не проходит", "body_part": "head", "urgency": "high", "symptom_type": "pain"}
+{"text": "кашель сильный, в груди жжет при вдохе", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "живот болит справа, усиливается при движении", "body_part": "abdomen", "urgency": "high", "symptom_type": "pain"}
+{"text": "нога опухла после ушиба, наступать больно", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "температура у ребенка 40, не сбивается", "body_part": "other", "urgency": "critical", "symptom_type": "fever"}
+{"text": "спина в пояснице болит, отдает в ногу", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "горло болит, глотать больно", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "порезал палец, кровь идет долго не останавливается", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "одышка появилась, сердцебиение частое", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "тошнота и рвота, весь день слабость", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "голова кружится, в глазах темнеет", "body_part": "head", "urgency": "critical", "symptom_type": "other"}
+{"text": "колено ударил, отек, согнуть не могу", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "боль в груди слева, отдает в руку", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "температура 38,5, ломит все тело", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "похоже отравление, живот болит и понос", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "шея болит, повернуть не могу", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "руку подвернул, отекла, двигать больно", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "кашель сухой, ночью усиливается, грудь болит", "body_part": "chest", "urgency": "medium", "symptom_type": "breathing"}
+{"text": "у пожилого человека спина болит, трудно ходить", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "у ребенка живот болит, рвота после еды", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "нос кровоточит, долго не останавливается", "body_part": "head", "urgency": "medium", "symptom_type": "other"}
+{"text": "ожог на руке, пузыри появились", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "слабость, головокружение, температура нормальная", "body_part": "head", "urgency": "low", "symptom_type": "other"}
+{"text": "боль в животе опоясывающая, уже 2 дня", "body_part": "abdomen", "urgency": "high", "symptom_type": "pain"}
+{"text": "удар в грудь, дышать больно, кашель с кровью", "body_part": "chest", "urgency": "critical", "symptom_type": "injury"}
+{"text": "температура держится второй день, лекарства мало помогают", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "ступил на гвоздь, ранка глубокая, болит сильно", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "боль в спине после поднятия тяжести, не проходит", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "горло красное, температура 37,8", "body_part": "head", "urgency": "low", "symptom_type": "fever"}
+{"text": "одышка даже в покое, кашель усиливается", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "живот вздут, болит после еды, тошнит", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "голова болит каждый день к вечеру", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "нога болит и отекла после падения", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "температура 39,5, бред, не приходит в себя", "body_part": "other", "urgency": "critical", "symptom_type": "fever"}
+{"text": "рана на ноге покраснела, нагноилась, температура поднялась", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "боль в груди при наклоне и глубоком вдохе", "body_part": "chest", "urgency": "high", "symptom_type": "pain"}

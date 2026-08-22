@@ -1,0 +1,150 @@
+{"text": "başym agyrýar, düýn agşamdan bäri", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym gaty agyrýar irden başlandy", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "çagamyň kellesi agyrýar biraz gyzgyny hem bar", "body_part": "head", "urgency": "medium", "symptom_type": "fever"}
+{"text": "kelläme gapy degdi, çişdi biraz", "body_part": "head", "urgency": "medium", "symptom_type": "injury"}
+{"text": "ýykylanymdan soň kellämi agyrdyp ýörün", "body_part": "head", "urgency": "medium", "symptom_type": "injury"}
+{"text": "baş aýlanýar gözümem garaňky bolýar", "body_part": "head", "urgency": "high", "symptom_type": "other"}
+{"text": "öýde ýykyldym huşum gitdi biraz gorkýan", "body_part": "head", "urgency": "critical", "symptom_type": "other"}
+{"text": "göwsümde azajyk agyry bar", "body_part": "chest", "urgency": "medium", "symptom_type": "pain"}
+{"text": "dem alanymda döşüm agyrýar", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "dem ýetmeýär, göwsüm gysylýar kömek gerek", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "göwsümde güýçli basyş ýaly duýgy bar", "body_part": "chest", "urgency": "critical", "symptom_type": "pain"}
+{"text": "çep tarap döşüm agyrýar birnäçe sagat boldy", "body_part": "chest", "urgency": "high", "symptom_type": "pain"}
+{"text": "içim agyrýar biraz", "body_part": "abdomen", "urgency": "low", "symptom_type": "pain"}
+{"text": "garnym agyrýar nahardan soň başlady", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "içim geçýär iki günden bäri", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "garnym gaty agyrýar çydap bilemok", "body_part": "abdomen", "urgency": "high", "symptom_type": "pain"}
+{"text": "içimde güýçli agyry we gusma bar", "body_part": "abdomen", "urgency": "high", "symptom_type": "digestive"}
+{"text": "garyn agyrysy bilen ýykylyp ýaly boldum", "body_part": "abdomen", "urgency": "critical", "symptom_type": "pain"}
+{"text": "aýagymy burdum çişdi", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "eliň barmagymy pyçak bilen kesdim gan azajyk çykýar", "body_part": "limb", "urgency": "low", "symptom_type": "injury"}
+{"text": "nahar bişirende elimi ýakdym", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "dizime ýykyldym agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "bilek agyrýar hereket etdirip bilemok", "body_part": "limb", "urgency": "high", "symptom_type": "pain"}
+{"text": "aýagymda uly ýara bar gan durmaýar", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "garry kakamyň aýagy çişip agyrýar", "body_part": "limb", "urgency": "medium", "symptom_type": "pain"}
+{"text": "çagam oýnanda elini burdy", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "ädim basanymda topugym agyrýar", "body_part": "limb", "urgency": "low", "symptom_type": "pain"}
+{"text": "demir bilen işläp elim ýaralandy", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "bilim agyrýar köp wagt oturanym üçin", "body_part": "back", "urgency": "low", "symptom_type": "pain"}
+{"text": "arkam agyrýar iki günden bäri", "body_part": "back", "urgency": "medium", "symptom_type": "pain"}
+{"text": "ýük galdyrdym bilime urdy", "body_part": "back", "urgency": "medium", "symptom_type": "injury"}
+{"text": "arka agyrysy gaty güýçli aýaga hem berýär", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "ýykylanymdan soň arkam agyrýar", "body_part": "back", "urgency": "high", "symptom_type": "injury"}
+{"text": "gyzdyryp ýörün gyzgynym 38", "body_part": "other", "urgency": "medium", "symptom_type": "fever"}
+{"text": "çagamynyň gyzgyny düşenok", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "gaty gowşak duýýan özümi", "body_part": "other", "urgency": "medium", "symptom_type": "other"}
+{"text": "kiçi ýaram bar ýöne bitenok", "body_part": "other", "urgency": "low", "symptom_type": "injury"}
+{"text": "burnumdan gan geldi köp däl", "body_part": "other", "urgency": "medium", "symptom_type": "injury"}
+{"text": "gan köp akýar saklap bilemok", "body_part": "other", "urgency": "critical", "symptom_type": "injury"}
+{"text": "ýaradan soň gyzarma we çişme bar", "body_part": "other", "urgency": "high", "symptom_type": "injury"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri birnäçe sagat boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri näme etmelidigimi bilemok", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri kömek gerek", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri agşamdan bäri şeýle", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri öýde boldum", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri derman içdim biraz ýeňledi", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri gorkýan biraz", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym agyrýar, düýn agşamdan bäri şu gün boldy", "body_part": "head", "urgency": "low", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "голова agyrýar, işde başlandy", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "döşümде боль bar, dem almak kyn", "body_part": "chest", "urgency": "high", "symptom_type": "breathing"}
+{"text": "мне плохо, göwsüm gysylýar", "body_part": "chest", "urgency": "critical", "symptom_type": "breathing"}
+{"text": "garnym agyrýar, тошнота hem bar", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "iç geçýär, уже iki gün boldy", "body_part": "abdomen", "urgency": "medium", "symptom_type": "digestive"}
+{"text": "elim kesildi, кровь durmaýar", "body_part": "limb", "urgency": "critical", "symptom_type": "injury"}
+{"text": "aýagymy вывих etdirdim ýaly, çişdi", "body_part": "limb", "urgency": "high", "symptom_type": "injury"}
+{"text": "dizimde боль bar ýykylandan soň", "body_part": "limb", "urgency": "medium", "symptom_type": "injury"}
+{"text": "arkam болит, köp oturýan", "body_part": "back", "urgency": "low", "symptom_type": "pain"}
+{"text": "спина agyrýar, ýöräbem kyn", "body_part": "back", "urgency": "high", "symptom_type": "pain"}
+{"text": "çagam gyzgyn, температура 39 boldy", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "жар düşenok, üç gündür", "body_part": "other", "urgency": "high", "symptom_type": "fever"}
+{"text": "ýaram bar, обработка etdik ýöne", "body_part": "other", "urgency": "medium", "symptom_type": "injury"}
+{"text": "burnumdan кровь geldi köp", "body_part": "other", "urgency": "medium", "symptom_type": "injury"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
+{"text": "başym болит, irden bäri geçmeýär biraz alada edýän", "body_part": "head", "urgency": "medium", "symptom_type": "pain"}
