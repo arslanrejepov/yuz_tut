@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+.env
+
+*.log
+
+.vscode/
+.idea/
+*.swp
+
+.DS_Store
+Thumbs.db
+
+.pytest_cache/
+.coverage
+htmlcov/
+
