@@ -65,11 +65,11 @@ CATEGORY_SYNONYMS = {
 
 SORT_INTENT_KEYWORDS = {
     "sort_by_rating": ["iň gowy", "in gowy", "gowusy", "reýtingi ýokary"],
-    "sort_by_price_asc": ["arzan", "arzanrak", "iň arzan", "amatly", "gymmatdal"],
-    "sort_by_distance": ["ýakyn", "golaý", "iň ýakyn", "towerekde"],
+    "sort_by_price_asc": ["arzan", "arzanrak", "iň arzan"],
+    "sort_by_distance": ["ýakyn", "golaý", "iň ýakyn"],
 }
 
-OPEN_NOW_KEYWORDS = ["gije işleýän", "häzir açyk", "şu wagt açyk", "24 sagat", "nocnoy"]
+OPEN_NOW_KEYWORDS = ["gije işleýän", "häzir açyk", "şu wagt açyk", "24 sagat"]
 
 
 def normalize(text):
@@ -94,11 +94,9 @@ def rule_based_extract(query):
             break
 
     open_now_only = any(kw in q for kw in OPEN_NOW_KEYWORDS)
-    confidence = "high" if matched_category else "low"
 
     return {
         "category": matched_category,
         "sort_by": sort_by,
         "open_now_only": open_now_only,
-        "confidence": confidence,
     }
