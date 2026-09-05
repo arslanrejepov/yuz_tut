@@ -1,7 +1,7 @@
-from understanding.rules import rule_based_extract, CATEGORY_SYNONYMS
-from understanding.llm_fallback import llm_extract_category
+from rules import rule_based_extract
+from llm_fallback import llm_fallback
 
-VALID_CATEGORIES = list(CATEGORY_SYNONYMS.keys())
+REFUSE_MESSAGE = "Näme gözleýäniňizi has anyk aýdyp bilersiňizmi?"
 
 
 def understand_query(query):
@@ -9,21 +9,21 @@ def understand_query(query):
 
     if result["category"] is not None:
         result["source"] = "rule_based"
+        result["refuse"] = False
         return result
 
-    llm_result = llm_extract_category(query, VALID_CATEGORIES)
-    result["category"] = llm_result["category"]
-    result["confidence"] = llm_result["confidence"]
-    result["source"] = "llm_fallback"
-    return result
+    llm_result = llm_fallback(query)
 
+    if llm_result["category"] is None:
+        return {
+            "category": None,
+            "sort_by": None,
+            "open_now_only": False,
+            "source": "llm_fallback",
+            "refuse": True,
+            "message": REFUSE_MESSAGE,
+        }
 
-if __name__ == "__main__":
-    tests = [
-        "gije işleýän arzan restoran gerek",
-        "elim kesildi gan akýar",
-        "iň ýakyn dermanhana",
-        "maşynym döwüldi",
-    ]
-    for t in tests:
-        print(t, "->", understand_query(t))
+    llm_result["source"] = "llm_fallback"
+    llm_result["refuse"] = False
+    return llm_result
