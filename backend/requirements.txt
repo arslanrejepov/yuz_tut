@@ -25,3 +25,5 @@ pytest
 asyncpg
 
 uuid6
+
+python-multipart

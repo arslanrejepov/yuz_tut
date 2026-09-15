@@ -12,8 +12,6 @@ app = FastAPI(
     version="1.0.0",
     )
 
-app.include_router(auth_router)
-
 @app.get("/")
 def message():
     return {"Yuz Tut": "Backend"}
@@ -31,3 +29,4 @@ async def database_health_check(db: AsyncSession = Depends(get_db)):
         "status": "ok",
         "database": "connected"
     }
+app.include_router(auth_router)
